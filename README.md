@@ -20,7 +20,7 @@ Python, Linux commands, GIT and SQLite3 are used in this project.
 - pytest
 
 ## Structure:
-![Screenshot 2023-03-07 203127](https://user-images.githubusercontent.com/124094317/223608268-4a460203-dc5d-4742-b273-252368368850.png)
+![Structure]("C:\Users\Vineela\Pictures\Screenshots\Screenshot 2023-03-07 232723.png")
 
 ## Installation Procedure:
 - Create directory: *mkdir my_project*.
